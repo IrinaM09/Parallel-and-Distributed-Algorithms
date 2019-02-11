@@ -1,12 +1,12 @@
 MITOCARU IRINA
 334CB
 
-														  _______                   ___  
-														 |__   __|                 |__ \ 
-														    | | ___ _ __ ___   __ _   ) |
-														    | |/ _ \ '_ ` _ \ / _` | / / 
-														    | |  __/ | | | | | (_| |/ /_ 
-														    |_|\___|_| |_| |_|\__,_|____|
+                                  _______                   ___  
+                                 |__   __|                 |__ \ 
+                                    | | ___ _ __ ___   __ _   ) |
+                                    | |/ _ \ '_ ` _ \ / _` | / / 
+                                    | |  __/ | | | | | (_| |/ /_ 
+                                    |_|\___|_| |_| |_|\__,_|____|
 														                                 
 														                                 
 Pentru a preveni ca mai multe threaduri sa acceseze in acelasi timp structurile in care se adauga mesajele de la mineri, 
